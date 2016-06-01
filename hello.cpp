@@ -28,6 +28,7 @@ int main()
 		printf("[i:%06d] %ld %ld \n--\n", i, sCurNanoTimeVal2.tv_sec,
 				sCurNanoTimeVal2.tv_nsec);
 
+		sleep(1);
 	}
 
 	return 0;
