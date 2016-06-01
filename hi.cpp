@@ -12,4 +12,6 @@ using namespace std;
 void func()
 {
 	printf("나는 hi의 func이야\n");
+
+	printf("나는 hi의 func이야2\n");
 }

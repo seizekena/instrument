@@ -32,6 +32,9 @@ int main()
 
 		//슬레이브 추가 됐네
 		printf("슬레이브 추가\n");
+
+
+		printf("깃허브 개신기하넹\n");
 	}
 
 	return 0;
