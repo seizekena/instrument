@@ -12,7 +12,8 @@
 #include <unistd.h>
 using namespace std;
 
-int main() {
+int main()
+{
 	struct timespec sCurNanoTimeVal;
 	struct timespec sCurNanoTimeVal2;
 	int rtn, i;
