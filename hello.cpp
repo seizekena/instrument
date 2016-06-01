@@ -29,6 +29,9 @@ int main()
 				sCurNanoTimeVal2.tv_nsec);
 
 		sleep(1);
+
+		//슬레이브 추가 됐네
+		printf("슬레이브 추가\n");
 	}
 
 	return 0;
